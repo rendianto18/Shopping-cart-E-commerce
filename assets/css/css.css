@@ -1,0 +1,33 @@
+#list-puskesmas .box-item{
+    padding: 10px;
+    border-left: 2px solid #e7e7e7;
+    margin-bottom: 8px;
+    color: #333;
+    animation: all 1s;
+}
+
+#list-puskesmas .box-item a{
+    color: #333;
+    text-decoration: none;
+}
+
+#list-puskesmas .box-item p{
+    margin-bottom: 0;
+}
+
+#list-puskesmas h4{
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+#list-puskesmas  .box-item:hover{
+    border-left: 2px solid #0074b9;
+    background-color: #e7e7e7;
+}
+
+#list-puskesmas .box-item .ico{
+    display: flex;
+    font-size: 31px;
+    justify-content: center;
+    color: #333;
+}
